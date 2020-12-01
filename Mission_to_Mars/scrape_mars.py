@@ -69,6 +69,7 @@ def scrape():
         hemisphere_image_urls.append(hem_dict)
         
         browser.back()
+
         
     hemisphere_image_urls
 
